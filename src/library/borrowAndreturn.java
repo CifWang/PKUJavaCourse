@@ -6,7 +6,7 @@ package library;
  */
 
 public interface borrowAndreturn {
-	Books book1=new Books(1,"limanjihe","卡莫",(float)40.4,false);
+	Books book1=new Books(1,"黎曼几何","卡莫",(float)40.4,false);
 	Books book2=new Books(2,"离散数学及其应用","Rosen",(float)96.7,false);
 	Books book3=new Books(3,"浮生六记","沈复",(float)16.0,false);
 	Books book4=new Books(4,"皮囊","蔡崇达",(float)26.7,false);
